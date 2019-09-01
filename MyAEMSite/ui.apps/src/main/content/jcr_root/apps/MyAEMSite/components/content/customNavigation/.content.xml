@@ -3,4 +3,4 @@
     jcr:primaryType="cq:Component"
     jcr:title="custom-navigation-component"
     sling:resourceSuperType="wcm/foundation/components/parbase"
-    componentGroup="MyAEMSite"/>
+    componentGroup=".hidden"/>
