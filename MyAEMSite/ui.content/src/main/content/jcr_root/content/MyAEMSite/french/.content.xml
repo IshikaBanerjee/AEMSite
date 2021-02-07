@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jcr:root xmlns:sling="http://sling.apache.org/jcr/sling/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0"
+    jcr:primaryType="cq:Page">
+    <jcr:content
+        cq:lastModified="{Date}2019-09-01T17:23:26.547+05:30"
+        cq:lastModifiedBy="admin"
+        cq:template="/apps/MyAEMSite/templates/basePageTemplate"
+        jcr:primaryType="cq:PageContent"
+        jcr:title="French"
+        sling:resourceType="/apps/MyAEMSite/components/structure/basePage"/>
+</jcr:root>
